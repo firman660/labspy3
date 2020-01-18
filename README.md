@@ -1,4 +1,7 @@
 # labspy3
+
+*PERULANGAN*
+
 Latihan1 Menginput bilangan N yang berisi angka random dan sampai berapa kali proses tersebut di ulang. Contoh " 6 ", maka akan di lakukan perulangan sampai 6x, lalu di proses dengan pengulangan for agar dapat melakukan pengulangan sampai dengan angka yang di inginkan oleh user dan di mulai dari angka 0 serta di tutup dengan kata “Selesai”.
 Contoh:
 
